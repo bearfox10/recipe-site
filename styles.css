@@ -1,0 +1,17 @@
+body{
+    background-color: beige;
+}
+
+h1{
+    color: brown;
+}
+
+li{
+    color: brown;
+}
+
+.b1{
+    background-color: beige;
+    color: brown;
+    font-weight: bolder;
+}
